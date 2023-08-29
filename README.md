@@ -14,7 +14,7 @@ The Student Result Management System is a web-based application designed to stre
 
 ## Demo
 
-![]link to gif (https://media.tenor.com/OcyKrkdYYP4AAAAd/student-management-system-student-data.gif)
+![](https://media.tenor.com/OcyKrkdYYP4AAAAd/student-management-system-student-data.gif)
 
 ## Installation
 
