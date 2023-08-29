@@ -12,7 +12,7 @@ The Student Result Management System is a web-based application designed to stre
 - Secure authentication and authorization system for user access control.
 - Responsive and intuitive interface for seamless navigation.
 
-## Demo
+## Demo gif
 
 ![](https://media.tenor.com/OcyKrkdYYP4AAAAd/student-management-system-student-data.gif)
 
