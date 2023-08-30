@@ -16,15 +16,6 @@ The Student Result Management System is a web-based application designed to stre
 
 ![](https://media.tenor.com/OcyKrkdYYP4AAAAd/student-management-system-student-data.gif)
 
-## Installation
-
-1. Clone this repository: `git clone https://github.com/your-username/student-result-management.git`
-2. Navigate to the project directory: `cd student-result-management`
-3. Install dependencies: `npm install`
-4. Configure the database connection in `config/database.js`
-5. Run the application: `npm start`
-6. Access the application at: `http://localhost:3000`
-
 ## Dependencies
 
 - Node.js
