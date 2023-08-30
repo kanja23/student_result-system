@@ -23,7 +23,6 @@ The Student Result Management System is a web-based application designed to stre
 - MongoDB
 - Passport.js (for authentication)
 - EJS (templating engine)
-- ... (list any additional dependencies here)
 
 ## Author
 
