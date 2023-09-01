@@ -3,9 +3,9 @@
 	"version": "1.0.0",
 	"description": "A web application for student results management.",
 	"dependencies": {
+		"ejs": "^3.1.9",
 		"express": "^4.17.1",
-		"mongoose": "^6.0.0"
-
+		"mongoose": "^6.12.0"
 	},
 	"scripts": {
 		"start": "node app.js"
