@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student List</title>
+</head>
+<body>
+    <h1>Student List</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Math Result</th>
+                <th>Science Result</th>
+                <th>History Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% students.forEach(function(student) { %>
+                <tr>
+                    <td><%= student.name %></td>
+                    <td><%= student.mathResult %></td>
+                    <td><%= student.scienceResult %></td>
+                    <td><%= student.historyResult %></td>
+                </tr>
+            <% }); %>
+        </tbody>
+    </table>
+    <a href="/addStudent">Add Student</a>
+</body>
+</html>
