@@ -1,6 +1,10 @@
 {
 	"name": "student_result-system",
-	"version": "1.0.0",
+	"version": "1.0.0"
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/your-username/sudent_result-system.git"
+	},
 	"description": "A web application for student results management.",
 	"dependencies": {
 		"body-parser": "^1.19.0",
